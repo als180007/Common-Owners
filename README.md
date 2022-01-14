@@ -17,4 +17,4 @@ infura_url = 'PUT YOUR URL HERE'
 15. Run main.py (ctrl-shift-b in Sublime)
 16. It will take a while to complete (will show updates every 100 NFTs processed)
 17. You should end up with an excel file containing addresses of all witch owners and ape owners
-18. My ridiculous thing for today is to include a Meow in the README
+18. Meow
